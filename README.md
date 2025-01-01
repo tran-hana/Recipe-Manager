@@ -1,17 +1,13 @@
 # Recipe-Manager
 
-A Java-based application designed to manage bread recipes for a bakery.
+Designed a Java-based application to manage bread recipes for a bakery, showcasing object-oriented programming principles.
 
-Reads recipes from a text file using relative paths to ensure portability.
+Applied file input/output operations to read recipes from a text file and save shopping lists to a separate file.
 
-Allows users to:
+Created methods to display available bread recipes, track bread orders, and generate ingredient shopping lists based on user inputs.
 
-View available bread recipes.
-Order specific quantities of different bread types.
-Generate a shopping list for the required ingredients.
+Ensured robustness by implementing exception handling to prevent software crashes and manage invalid user inputs.
 
-Demonstrates robust software development practices, including:
-File Input/Output operations.
-Exception management to prevent crashes.
+Produced Javadoc documentation to clarify class structures and method functionalities.
 
-Saves the shopping list to a text file for easy reference.
+Tested application functionality with custom test cases to validate file I/O operations and ingredient calculations.
